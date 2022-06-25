@@ -26,3 +26,6 @@ body{
     width:70%;
     display:inline-block;
 }
+.clear{
+    padding: 30px;
+}
